@@ -12,4 +12,12 @@ Place the dataset in a folder named `dataset/` in the root directory.
 - Pre-trained model: CNN
 - Framework: TensorFlow/Keras
 
+
+
+## Download Dataset
+After cloning this repo, run:
+```bash
+pip install -r requirements.txt
+python download_dataset.py
+
 </div>
