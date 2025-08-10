@@ -1,1 +1,15 @@
-code will be available soon
+#import library 
+import numpy as np
+import matplotlib.plt as plt
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Conv2D, MaxPooling2D, Dense, Flatten
+
+## download data
+
+
+
+## train and test split
+X_train = input.csv, delimiter = ','
+y_train = labels.csv, delimiter = ','
+X_test = input_test.csv, delimiter = ','
+y_test = labels_test.csv, delimiter = ','
