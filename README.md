@@ -35,4 +35,4 @@ git clone https://github.com/YourUsername/cnn-binary-image-classification-cats-v
 cd cnn-binary-image-classification-cats-vs-dogs
 
 # Run training
-python train.py
+python CNN_Image_Classification.ipynb
